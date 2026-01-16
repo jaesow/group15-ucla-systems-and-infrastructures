@@ -7,7 +7,7 @@ body {
 
   background-image:
     linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-    url("library.jpg");
+    url("Library.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
